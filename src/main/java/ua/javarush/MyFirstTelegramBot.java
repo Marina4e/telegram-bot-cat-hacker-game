@@ -17,7 +17,7 @@ public class MyFirstTelegramBot extends TelegramLongPollingBot {
     @Override
     public String getBotUsername() {
         // TODO: додай ім'я бота в лапки нижче
-        return "javaRushCatGame26112023_bot";
+        return "CatGame_bot";
     }
 
     @Override
