@@ -23,7 +23,7 @@ public class MyFirstTelegramBot extends TelegramLongPollingBot {
     @Override
     public String getBotToken() {
         // TODO: додай токен бота в лапки нижче
-        return "6964111139:AAFmj3465ouOa3YSyDy3hOqrOX5SIbcv4xU";
+        return " токен бота ";
     }
 
     @Override
